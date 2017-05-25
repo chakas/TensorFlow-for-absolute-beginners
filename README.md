@@ -1,6 +1,6 @@
 # TensorFlow for ablosulte beginners
 
-When I opened a neural network text book and saw the bunch of math formulas, I felt like "this is not for me". But wait, TensorFlow now provides the high-level API that let you write a few lines of Python code to get started with neural network, without understanding the hard math. Come and join this codelab to see how machine learning works on your laptop.
+When I opened a neural network text book and saw the bunch of math formulas, I felt like "this is not for me". But wait, TensorFlow now provides the high-level API that let you write a few lines of Python code to get started with neural network, without understanding the hard math. Try this codelab to see how machine learning works on your laptop.
 
 This codelab is designed as an easy TensorFlow introduction for non ML experts. All you need to know is how to use Python. It would take about 2 - 3 hours to go through all the sections.
 
