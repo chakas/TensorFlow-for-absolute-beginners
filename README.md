@@ -1,6 +1,8 @@
-# TensorFlow Introduction
+# TensorFlow for ablosulte beginners
 
-This is a codelab material designed as an easy TensorFlow introduction for non ML experts. All you need to know is how to use Python. It would take about 2 - 3 hours to go through all the sections.
+When I opened a neural network text book and saw the bunch of math formulas, I felt like "this is not for me". But wait, TensorFlow now provides the high-level API that let you write a few lines of Python code to get started with neural network, without understanding the hard math. Come and join this codelab to see how machine learning works on your laptop.
+
+This codelab is designed as an easy TensorFlow introduction for non ML experts. All you need to know is how to use Python. It would take about 2 - 3 hours to go through all the sections.
 
 - [Preparation](0.%20Preparation.ipynb#): setting up the codelab environment with Cloud Datalab (Jupyter Notebook on GCP)
 - [Understanding neural network with TensorFlow Playgroud](1.%20Understanding%20neural%20network%20with%20TensorFlow%20Playground.ipynb): See how "neuron" works with Playground demo
